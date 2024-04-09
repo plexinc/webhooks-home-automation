@@ -17,4 +17,4 @@ http -b https://winkapi.quirky.com/users/me/wink_devices "Authorization:Bearer y
  BEARER=bearer-token BULB=bulb-id PLAYER=player-identifier node index.js
  ```
  
-- Add the webhook to https://app.plex.tv/web/app#!/account/webhooks
+- Add the webhook to https://app.plex.tv/desktop/#!/settings/webhooks

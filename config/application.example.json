@@ -1,0 +1,26 @@
+{
+  "devices": [
+    {
+      "id": 3,
+      "name": "TV 2019",
+      "platform": "Tizen",
+      "clientIdentifier": "th1s1s4u71lutka7aq3zlcih",
+      "createdAt": 1710924258000,
+      "note": "Living room TV"
+    }
+  ],
+  "lights": [
+    {
+      "id": "bulbasaur",
+      "note": "Living room Light"
+    }
+  ],
+  "associations": [
+    {
+      "deviceId": "th1s1s4u71lutka7aq3zlcih",
+      "lightId": "bulbasaur",
+      "note": "Living room TV switches Living room Light."
+    }
+  ],
+  "hueUsername": "th1siz4hues3rnam3"
+}
